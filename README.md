@@ -1,6 +1,6 @@
 # IPython in depth tutorial
 
-Try it out on Binder! [![Binder](https://mybinder.org/badge.svg)](https://github.com/Jammnie/ipython-in-depth/master?filepath=binder%2FIndex.ipynb)
+Try it out on Binder! [![Binder](https://mybinder.org/badge.svg)](https://github.com/Jammnie/ipython-in-depth/master)
 
 In its current form, this tutorial is meant to be executed with Jupyter notebook
 5.0, using IPython 6.0 or newer on Python 3, the latest IPython version
